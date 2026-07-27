@@ -5,3 +5,4 @@ variable "pip" {}
 variable "nics" {}
 variable "vms" {}
 variable "windows_vm" {}
+variable "key_vaults" {}
